@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="ic_linkedin" transform="translate(-1272.185 -686)">
+    <g id="Rectangle_19" data-name="Rectangle 19" transform="translate(1272.185 686)" fill="rgba(255,255,255,0.07)" stroke="rgba(255,255,255,0.15)" stroke-width="1">
+      <rect width="36" height="36" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="35" height="35" rx="4.5" fill="none"/>
+    </g>
+    <g id="Page-1" transform="translate(1284.488 695.536)">
+      <g id="Dribbble-Light-Preview" transform="translate(0 0)">
+        <g id="icons">
+          <path id="linkedin-_161_" data-name="linkedin-[#161]" d="M163.107,8797.107h-2.861V8792.1c0-1.373-.606-2.137-1.692-2.137-1.182,0-1.884.8-1.884,2.137v5.008h-2.861v-9.3h2.861v1.043a3.449,3.449,0,0,1,2.921-1.572c2.024,0,3.517,1.238,3.517,3.791v6.037Zm-12.56-10.787a1.76,1.76,0,1,1,1.746-1.76,1.753,1.753,0,0,1-1.746,1.76Zm-1.747,10.787h3.577v-9.3H148.8Z" transform="translate(-148.8 -8782.801)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

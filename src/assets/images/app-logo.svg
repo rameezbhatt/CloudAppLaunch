@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="50" viewBox="0 0 200 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_74" data-name="Rectangle 74" width="200" height="50" transform="translate(87 90)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="app-logo" transform="translate(-87 -90)" clip-path="url(#clip-path)">
+    <g id="Group_115" data-name="Group 115" transform="translate(-18.157 -332.488)">
+      <g id="Group_72" data-name="Group 72" transform="translate(109.147 422.811)">
+        <g id="Group_44" data-name="Group 44" transform="translate(0 0)">
+          <text id="Lockular_" data-name="Lockular " transform="translate(54.141 24.619)" fill="#fff" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.03em"><tspan x="0" y="0">Lockular </tspan></text>
+          <text id="Common_sense_data_defense_" data-name="Common sense data defense®" transform="translate(54.033 38.766)" fill="#dd773f" font-size="9" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.03em"><tspan x="0" y="0">Common sense data defense®</tspan></text>
+          <g id="Group_168" data-name="Group 168" transform="translate(0 2.618)">
+            <path id="Path_198" data-name="Path 198" d="M15.059,1.761-.352,17.1V48.817H31.215V32.552H15.059Z" transform="translate(0.352 -1.761)" fill="#ed702d"/>
+            <path id="Path_199" data-name="Path 199" d="M15.859,48.819,31.215,33.48V1.761l-31.5,0L-.352,18.025H15.8Z" transform="translate(15.692 -1.761)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

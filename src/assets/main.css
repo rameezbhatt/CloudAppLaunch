@@ -1,0 +1,12 @@
+/*--------------------------------------------
+    General Styles
+----------------------------------------------*/
+body{
+    font-family: barlow;
+    letter-spacing: 1px;
+    padding:0;
+    margin:0;
+}
+li{
+    text-decoration: none;
+}

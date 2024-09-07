@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="ic_twitter" transform="translate(-1272.185 -686)">
+    <g id="Rectangle_19" data-name="Rectangle 19" transform="translate(1272.185 686)" fill="rgba(255,255,255,0.07)" stroke="rgba(255,255,255,0.15)" stroke-width="1">
+      <rect width="36" height="36" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="35" height="35" rx="4.5" fill="none"/>
+    </g>
+    <g id="layer1" transform="translate(1000.717 529.232)">
+      <path id="path1009" d="M281.539,167.31l6.153,8.227-6.191,6.689h1.393l5.421-5.856,4.38,5.856h4.742l-6.5-8.689,5.763-6.226h-1.393l-4.992,5.393-4.034-5.393Zm2.049,1.026h2.178l9.62,12.862h-2.178Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>
