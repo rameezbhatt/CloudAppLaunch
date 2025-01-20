@@ -4,3 +4,8 @@ node_modules/
 # macOS system files
 .DS_Store
 **/.DS_Store 
+
+#Idea
+.idea
+.idea/
+**/*.iml
