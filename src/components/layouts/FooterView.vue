@@ -7,7 +7,7 @@
                     <img class="ml-[15px]" src="../../assets/icons/ic_linkedin.svg" alt="linkedin icon">
                 </div>
             </div>
-            <p class="text-[14px] text-[#ffffff99]">Copyright © - Lockular Pvt. Ltd </p>     
+            <p class="text-[14px] text-[#ffffff99]">Copyright © - Launchify Pvt. Ltd </p>     
         </div>
     </div>
 </template>
