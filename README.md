@@ -1,4 +1,6 @@
-# Launchify
+# CloudAppLaunch
+
+Application to launch cloud IDES in kubernetes environment.
 
 This template should help get you started developing with Vue 3 in Vite.
 
